@@ -9,6 +9,12 @@ body
   height: 90vh;
 }   
 
+#second-container 
+{
+  color:chartreuse;
+  background-color: blueviolet;
+}
+
 #third-container
 {
   color:cadetblue;
