@@ -6,7 +6,8 @@ body
 #main-container 
 {
   background-color: yellow;
-  height: 90vh;
+  height:100px;
+  /* height: 90vh; */
 }   
 
 #second-container 
@@ -19,10 +20,9 @@ body
 {
   color:cadetblue;
   background-color: coral;
-  height: 50%;
 }
 
 #first-container{
-    padding-bottom: 0px;
-    width: 100%;
+  color:red;
+  background-color: blue;
 }
