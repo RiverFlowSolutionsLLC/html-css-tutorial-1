@@ -6,7 +6,7 @@ body
 #main-container 
 {
   background-color: yellow;
-  height:100px;
+  height:500px;
   /* height: 90vh; */
 }   
 
@@ -14,15 +14,22 @@ body
 {
   color:chartreuse;
   background-color: blueviolet;
+  width: 30%;
+  display: inline-block;
 }
 
 #third-container
 {
   color:cadetblue;
   background-color: coral;
+  clear:both;
 }
 
 #first-container{
   color:red;
   background-color: blue;
+  width: 30%;
+  float: left;  
+  height: 100px;
+  /* display: inline-block; */
 }
