@@ -1,0 +1,22 @@
+body 
+{
+  background-color: paleturquoise;
+}
+
+#main-container 
+{
+  background-color: yellow;
+  height: 90vh;
+}   
+
+#third-container
+{
+  color:cadetblue;
+  background-color: coral;
+  height: 50%;
+}
+
+#first-container{
+    padding-bottom: 0px;
+    width: 100%;
+}
